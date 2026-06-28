@@ -1,4 +1,5 @@
 # 第五次实验：Whitted-Style Ray Tracing
+兰江昕憬202411081061
 
 ## 实验简介
 
